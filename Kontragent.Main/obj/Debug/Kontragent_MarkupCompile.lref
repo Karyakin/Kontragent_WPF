@@ -1,24 +1,24 @@
-﻿
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\App.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\ValidationResources.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Autorisation\AuthWindow.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Autorisation\AutorisationView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\NewOrganizationView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\NewOrganizationViewModelUC.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Organization.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\OrganizationView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Person.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Search\OrgSearchView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Search\PersSearchView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Search\SearchView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\WaveProgressBar.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\dark.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\light.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\MainWindow.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\PersonView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Registration\RegistrationView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\CustomControl\Registration\RegWindow.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\Update\OrganisationUpdateView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\Update\PersoneUpdateView.xaml;;
-FC:\Users\d.karyakin\Desktop\Development\Kontragent 28.10.2020_УТРО\Kontragent.Main\View\Update\UpdateView.xaml;;
+﻿C:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\App.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\ValidationResources.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Autorisation\AuthWindow.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Autorisation\AutorisationView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\NewOrganizationView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\NewOrganizationViewModelUC.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Organization.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\OrganizationView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Person.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Search\OrgSearchView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Search\PersSearchView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Search\SearchView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\WaveProgressBar.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\dark.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\light.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\MainWindow.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\PersonView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Registration\RegistrationView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\CustomControl\Registration\RegWindow.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\Update\OrganisationUpdateView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\Update\PersoneUpdateView.xaml;;
+FC:\Users\dmitrijkarakin\Desktop\Kontragent\Kontragent.Main\View\Update\UpdateView.xaml;;
 
