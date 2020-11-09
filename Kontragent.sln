@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontragent", "Kontragent.Main\Kontragent.csproj", "{2491ABEE-5370-4161-A14E-4D12E808322C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontragent.Domain", "Kontragent.Domain\Kontragent.Domain.csproj", "{A609CBEC-FA55-49E9-9C28-E6845662692A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2491ABEE-5370-4161-A14E-4D12E808322C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2491ABEE-5370-4161-A14E-4D12E808322C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2491ABEE-5370-4161-A14E-4D12E808322C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2491ABEE-5370-4161-A14E-4D12E808322C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A609CBEC-FA55-49E9-9C28-E6845662692A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A609CBEC-FA55-49E9-9C28-E6845662692A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A609CBEC-FA55-49E9-9C28-E6845662692A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A609CBEC-FA55-49E9-9C28-E6845662692A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610C94DA-82C7-4FFC-9176-923D585F6BA7}
+	EndGlobalSection
+EndGlobal

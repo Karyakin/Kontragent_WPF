@@ -1,0 +1,120 @@
+﻿<UserControl x:Class="Kontragent.View.CustomControl.Search.OrgSearchView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.View.CustomControl.Search"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition ></ColumnDefinition><!--0-->
+                <ColumnDefinition ></ColumnDefinition><!--1-->
+                <ColumnDefinition ></ColumnDefinition><!--2-->
+                <ColumnDefinition ></ColumnDefinition><!--3-->
+                <ColumnDefinition ></ColumnDefinition><!--4-->
+                <ColumnDefinition ></ColumnDefinition><!--5-->
+            </Grid.ColumnDefinitions>
+        
+            <StackPanel Grid.Column="0" Grid.Row="0" Margin="5,0,0,0" >
+                <GroupBox  Header="УНП" Width="Auto">
+                <TextBox Text="{Binding OrganizationSearc.UNPOrg, UpdateSourceTrigger=PropertyChanged}" />
+                </GroupBox>
+            <CheckBox Content="Гос.предприятие" Margin="5,5,0,0" IsChecked="{Binding OrganizationSearc.OwnershipOrg}"/>
+            <CheckBox Content="Репутация подтверждена" IsChecked="{Binding OrganizationSearc.Reputation}" Margin="5,5,0,0"/>
+            <CheckBox Content="Опыт торгов" IsChecked="{Binding OrganizationSearc.Tradingexperience}" Margin="5,5,0,0"/>
+            <CheckBox Content="Производитель"   IsChecked="{Binding OrganizationSearc.Manufacturer}" Margin="5,5,0,0"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="1" Margin="10,0,0,0">
+                <GroupBox  Header="Краткое наименование">
+                <TextBox Text="{Binding OrganizationSearc.ShortNameOrg, UpdateSourceTrigger=PropertyChanged}" />
+                </GroupBox>
+            <CheckBox Content="Особый риск"            IsChecked="{Binding OrganizationSearc.SpecialRisc}" Margin="5,0,0,0"/>
+            <CheckBox Content="Лжепредпринимательство" IsChecked="{Binding OrganizationSearc.FalseBusiness}" Margin="5,5,0,0"/>
+            <CheckBox Content="Банкротство(сонация)"   IsChecked="{Binding OrganizationSearc.BankruptcyProc}" Margin="5,5,0,0"/>
+            <CheckBox Content="Процесс ликвидации"     IsChecked="{Binding OrganizationSearc.LiquidationProc}" Margin="5,5,0,0"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="2" Margin="10,0,0,0" >
+                <GroupBox  Header="Полное наименование">
+                <TextBox  Text="{Binding OrganizationSearc.FullNameOrg , UpdateSourceTrigger=PropertyChanged}" />
+                </GroupBox>
+            <CheckBox Content="Задолженности по налогам" IsChecked="{Binding OrganizationSearc.TaxDebt}" Margin="5,5,0,0"/>
+            <CheckBox Content="Задолж. по исп. документам" IsChecked="{Binding OrganizationSearc.DebtsEnforcementDocuments}" Margin="5,5,0,0"/>
+            <CheckBox Content="Приказное. произ-во" IsChecked="{Binding OrganizationSearc.ExecuteProc}" Margin="5,5,0,0"/>
+            <CheckBox Content="Нарушение правил торгов" IsChecked="{Binding OrganizationSearc.ExchengeTradingDisorders}" Margin="5,5,0,0"/>
+            <CheckBox Content="Негатив" IsChecked="{Binding OrganizationSearc.NegativData}" Margin="5,5,0,0"/>
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="3" Margin="10,0,0,0">
+                <GroupBox  Header="Страна">
+                    <ComboBox
+                      
+                        ItemsSource="{Binding OrganizationSearc.Countries,UpdateSourceTrigger=PropertyChanged}" 
+                        DisplayMemberPath="NameCountry"
+                        SelectedItem="{Binding OrganizationSearc.SelectedCountry}" 
+                        Text="(не выбрано)" 
+                        IsReadOnly="False" 
+                        IsEditable="True" 
+                        StaysOpenOnEdit="True" 
+                    />
+                </GroupBox>
+            <CheckBox Content="Резидент РБ"  IsChecked="{Binding OrganizationSearc.Resident}"  Margin="5,5,0,0"
+                     
+                      /> <!--IsEnabled="{Binding OrganizationSearc.NotResident}"-->
+                
+            <CheckBox Content="Не резидент РБ" IsChecked="{Binding OrganizationSearc.NotResident}" Margin="5,5,0,0"
+                     
+                      /><!--IsEnabled="{Binding OrganizationSearc.Resident}"-->
+            </StackPanel>
+
+            <StackPanel Grid.Row="0" Grid.Column="4" Margin="10,0,0,0">
+                <GroupBox  Header="Секция">
+                    <ComboBox
+                        ItemsSource="{Binding OrganizationSearc.Section, UpdateSourceTrigger=PropertyChanged}"
+                        DisplayMemberPath="NameSection"
+                        SelectedItem="{Binding OrganizationSearc.SelectedSection}"
+                        Text="(не выбрано)" 
+                        IsReadOnly="False" 
+                        IsEditable="True" 
+                        StaysOpenOnEdit="True" 
+                    />
+                </GroupBox>
+            <CheckBox Content="Клиент брокера" IsChecked="{Binding OrganizationSearc.BrokerClient}" Margin="5,5,0,0"/>
+            <CheckBox Content="Ранее клиент брокера" IsChecked="{Binding OrganizationSearc.PrevBrokerClient}" Margin="5,5,0,0"/>
+            <CheckBox Content="Первичная аккредит." IsChecked="{Binding OrganizationSearc.FirstAccred}" Margin="5,5,0,0"/>
+            <CheckBox Content="Повторная аккредит." IsChecked="{Binding OrganizationSearc.SecondAccred}" Margin="5,5,0,0"/>
+            <CheckBox Content="Посетитель торгов"  IsChecked="{Binding OrganizationSearc.Trader}" Margin="5,5,0,0"/>
+            </StackPanel>
+
+            <Grid Grid.Row="0" Grid.Column="5" Margin="10,0,0,0" >
+                <GroupBox Header="Дата создания организации" Height="Auto" VerticalAlignment="Top">
+                    <StackPanel >
+                        <GroupBox Header="Начиная с" >
+                            <DatePicker
+                                     SelectedDate="{Binding OrganizationSearc.CreatedateOrgSTART, Mode=TwoWay}"
+                                />
+                        </GroupBox>
+                        <GroupBox Header="Заканчивая">
+                            <DatePicker
+                                     SelectedDate="{Binding OrganizationSearc.CreatedateOrgFINAL, Mode=TwoWay}"
+                                />
+                        </GroupBox>
+                    </StackPanel>
+                </GroupBox>
+            </Grid>
+
+            <!--<StackPanel Grid.Row="0" Grid.Column="6" Width="Auto" Margin="10,0,0,0">
+                <GroupBox Margin="10,0,10,10" Width="Auto">
+                    <Button Content="Сбросить параметры поиска" Width="Auto" Height="20"/>
+                </GroupBox>
+                <GroupBox Margin="10" Width="Auto">
+                    <Button Content="Очистить результат поиска" Width="Auto" Height="20"/>
+                </GroupBox>
+                <GroupBox Margin="10" Width="Auto">
+                    <Button Content="Поск" Width="Auto" Height="40"  Command="{Binding SearchCommand}" />
+                </GroupBox>
+            </StackPanel>-->
+    </Grid>
+</UserControl>

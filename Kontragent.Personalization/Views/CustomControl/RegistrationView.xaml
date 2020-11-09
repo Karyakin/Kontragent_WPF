@@ -1,0 +1,109 @@
+﻿<UserControl x:Class="Kontragent.Personalization.Views.CustomControl.RegistrationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.Personalization.Views.CustomControl"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Background >
+        <ImageBrush ImageSource="C:\Users\d.karyakin\Desktop\Development\Persanalization\Resourse\RegistrationIMG.jpg" 
+                  Opacity="0.4"
+                    />
+    </UserControl.Background>
+    <Grid >
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid >
+            <Label Content="Регистрация пользователя" 
+                   Grid.Row="0" 
+                   Margin="20,0,10,25" 
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Bottom"
+                   FontSize="25" FontWeight="Bold"
+                   FontStyle="Oblique"
+                   Foreground="SandyBrown"
+                   />
+        </Grid>
+
+        <StackPanel Orientation="Vertical" Margin="20,30,30,0" Grid.Row="1" Grid.Column="1" Height="Auto">
+            <GroupBox Header="Фамилия">
+                <TextBox 
+                    Margin="10" 
+                    Height="25" 
+                    FontSize="20"
+                    Text="{Binding LoginUser , UpdateSourceTrigger=PropertyChanged}"
+                    
+                    />
+            </GroupBox>
+            <GroupBox Header="Подразделение" >
+                <TextBox 
+                    Margin="10" 
+                    Height="25" 
+                    FontSize="20"
+                    Text="{Binding Department , UpdateSourceTrigger=PropertyChanged}"
+                    
+                    />
+            </GroupBox>
+            <GroupBox Header="Пароль">
+                <TextBox 
+                    Margin="10" 
+                    Height="25" 
+                    FontSize="20"
+                    Text="{Binding PasswordUser , UpdateSourceTrigger=PropertyChanged}"
+                    
+                    />
+            </GroupBox>
+            <GroupBox Header="Подтверждение пароля">
+                <TextBox 
+                    Margin="10" 
+                    Height="25" 
+                    FontSize="20"
+                    Text="{Binding RepeatedPassword , UpdateSourceTrigger=PropertyChanged}"
+                    
+                    />
+            </GroupBox>
+            <GroupBox Header="Подсказка пароля">
+                <TextBox 
+                    Margin="10,10,10,10" 
+                    Height="25" 
+                    FontSize="20"
+                    Text="{Binding Hint, UpdateSourceTrigger=PropertyChanged}"
+                    
+                    />
+            </GroupBox>
+
+            <!--<TextBox Margin="10"/>
+            <TextBox Margin="10"/>
+            <TextBox Margin="10"/>
+            <TextBox Margin="10"/>-->
+
+
+        </StackPanel>
+
+        <!--<Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>-->
+
+        <Grid Grid.Row="1" Margin="10" Grid.Column="1">
+            <Button Content="Зарегистрироваться" 
+                    Height="50" 
+                    Margin="10,10,17,5"
+                    Background="Green"
+                    FontSize="20"
+                    VerticalAlignment="Bottom"
+
+                    />
+        </Grid>
+
+
+    </Grid>
+</UserControl>

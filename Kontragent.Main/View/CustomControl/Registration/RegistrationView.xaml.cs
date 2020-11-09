@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+using Kontragent.View.CustomControl.Autorisation;
+
+namespace Kontragent.View.Registration
+{
+    /// <summary>
+    /// Логика взаимодействия для RegistrationView.xaml
+    /// </summary>
+    public partial class RegistrationView : UserControl
+    {
+        public RegistrationView()
+        {
+            InitializeComponent();
+        }
+
+        private void Back_OnClick(object sender, RoutedEventArgs e)
+        {
+            var registrationWindow = Window.GetWindow(this) as RegWindow;
+            var authWindow = new AuthWindow();
+            authWindow.Show();
+            registrationWindow?.Close();
+        }
+    }
+}

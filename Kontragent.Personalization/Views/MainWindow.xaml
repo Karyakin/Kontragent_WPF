@@ -1,0 +1,22 @@
+﻿<Window x:Class="Kontragent.Personalization.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kontragent.Personalization"
+        xmlns:Autorisation="clr-namespace:Kontragent.Personalization.Views.CustomControl"
+        mc:Ignorable="d"
+      Title="MainWindow" Height="480" Width="600"
+       
+        Opacity="0.9" 
+        AllowsTransparency="True" 
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+            >
+
+
+    <Grid>
+        <!--<Registration:RegistrationView  />-->
+        <Autorisation:AutorisationView DataContext="{Binding AutorisationViewModel}"/>
+    </Grid>
+</Window>

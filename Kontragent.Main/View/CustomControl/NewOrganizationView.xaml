@@ -1,0 +1,151 @@
+﻿<UserControl x:Class="Kontragent.View.CustomControl.NewOrganizationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.View.CustomControl"
+             xmlns:converter="clr-namespace:Kontragent.Converters"
+             xmlns:local1="clr-namespace:Kontragent.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Background="WhiteSmoke"
+             
+             >
+    <UserControl.Resources>
+        <converter:BoolToStringErrorConverter x:Key="BoolToStringErrorConverter"/>
+        <converter:RiskToBooleanConverter x:Key="RiskToBooleanConverter"/>
+        <converter:RiskToBooleanRevertConverter x:Key="RiskToBooleanRevertConverter"/>
+    </UserControl.Resources>
+   
+
+    <Grid Margin="5" Background="WhiteSmoke">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" ></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" 
+                      Grid.Column="0" 
+                      Grid.Row="1" 
+                      Grid.ColumnSpan="3">
+            <Grid Background="WhiteSmoke" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <local:OrganizationView 
+                Grid.Column="0" 
+                DataContext="{Binding Organization}"
+                    
+                    
+                    
+                    />
+
+                <Button 
+                    VerticalAlignment="Top"
+                    MaxWidth="200"
+                    MinHeight="35"
+                    Margin="50,35,250,0"
+                    Command="{Binding AutoFill}">
+                    <TextBlock Text="Автозаполнение формы" TextWrapping="Wrap"/>
+                </Button>
+
+
+
+                <!--<Button Width="250" 
+                        Height="42" 
+                        VerticalAlignment="Top" 
+                        HorizontalAlignment="Stretch" 
+                        Margin="0,9,250,0" 
+                        Content="Автозаполнение формы"
+                        Command="{Binding AutoFill}"
+                        
+                />-->
+                
+                <GridSplitter 
+                    Grid.Column="1" 
+                    Width="3"
+                    Margin="5,0"
+                    ResizeDirection="Columns"
+                    VerticalAlignment="Stretch"
+                    ResizeBehavior="PreviousAndNext"
+                    
+                    />
+
+                <local:PersonView 
+                Grid.Column="2" 
+                DataContext="{Binding Person1}"/>
+            </Grid>
+        </ScrollViewer>
+
+        <Border Grid.Column="0"
+            Grid.Row="2"
+            Grid.ColumnSpan="3"
+            Margin="0,5"
+            BorderThickness="2"
+            BorderBrush="LightGray" />
+
+        <Grid Grid.Row="3" Grid.Column="0" 
+              Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <local:WaveProgressBar DataContext="{Binding}"
+                                   Grid.Column="0" 
+                                   Margin="10,0" 
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Bottom"/>
+
+            <Grid Grid.Column="1" VerticalAlignment="Center"
+                  Margin="25,0,0,0"
+                  
+                  >
+                <TextBlock FontSize="30" Text="Задаток по биржевым сделкам" 
+                           Foreground="Red" 
+                           FontStyle="Italic"
+                           Visibility="{Binding Risk, Converter={StaticResource RiskToBooleanRevertConverter}}"/>
+                <TextBlock FontSize="30" Text="Задаток по биржевому сбору" 
+                           Foreground="ForestGreen"
+                           FontStyle="Italic"
+                           Visibility="{Binding Risk, Converter={StaticResource RiskToBooleanConverter}}"/>
+            </Grid>
+
+            <StackPanel Grid.Column="2" 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Right" 
+                        VerticalAlignment="Bottom"
+                        >
+                
+                <Button Content="ДОБАВИТЬ"
+                        ToolTip="{Binding Person1.Validator.IsValid, Converter={StaticResource BoolToStringErrorConverter}}"  
+                        Command="{Binding SaveCommand}" 
+                        ToolTipService.ShowOnDisabled="True"   
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center" 
+                        Height="59" 
+                        MinWidth="131"
+                        Margin="0,0,15,0"/>
+
+                <Button Content="ОЧИСТИТЬ" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center" 
+                        Height="59" 
+                        Command="{Binding ClearCommand}"/>
+
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>

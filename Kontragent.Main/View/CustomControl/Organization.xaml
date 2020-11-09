@@ -1,0 +1,161 @@
+﻿<UserControl x:Class="Kontragent.View.CustomControl.Organization"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.View.CustomControl"
+             mc:Ignorable="d" d:DesignWidth="1000" Height="790.889"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             >
+    
+    <UserControl.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Width" Value="150"/>
+        </Style>
+        <Style TargetType="ComboBox">
+            <Setter Property="Height" Value="23"/>
+            <Setter Property="Width" Value="200"/>
+        </Style>
+        <Style TargetType="CheckBox">
+            <Setter Property="Width" Value="200" />
+            <Setter Property="Height" Value="15" />
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+        </Style>
+
+    </UserControl.Resources>
+    <Grid Margin="0,-46,0,0" Height="915" VerticalAlignment="Top">
+        <Label Content="УНП"                    VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,50,0,0"/>
+        <Label Content="Полное наименование"    VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,103,0,0"/>
+        <Label Content="Краткое наименование"   VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,156,0,0"/>
+        <Label Content="Страна"                 VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,263,0,0"/>
+        <Label Content="Секция"                 VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,316,0,0"/>
+        <Label Content="Дата создания"          VerticalAlignment="Top" HorizontalAlignment="Left" Margin="20,209,0,0"/>
+
+        <Label Content="Описание предприятия"                          VerticalAlignment="Top" HorizontalAlignment="Left" Margin="250,50,0,0" Width="166"/>
+        <Label Content="Мнение проверяющего(не обязательно)"           VerticalAlignment="Top" HorizontalAlignment="Left" Margin="250,160,0,0" Width="241"/>
+        <Label Content="Мнение профильного управления(не обязательно)" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="251,265,0,0" Width="294"/>
+        <Label Content="Мнение брокера(не обязательно)"                VerticalAlignment="Top" HorizontalAlignment="Left" Margin="250,370,0,0" Width="241"/>
+
+        <TextBox x:Name="textBoxUNP"       
+                 Style="{StaticResource TextBox}" 
+                 Text="{Binding UNPOrg, UpdateSourceTrigger=PropertyChanged}" 
+                 HorizontalAlignment="Left" 
+                 VerticalAlignment="Top" 
+                 Height="23" Width="200" 
+                 Margin="20,75,0,0" />
+
+        <TextBox x:Name="textBoxFullName"  
+                 Style="{StaticResource TextBox}" 
+                 Text="{Binding ShortNameOrg, UpdateSourceTrigger=PropertyChanged}" 
+                 HorizontalAlignment="Left" 
+                 VerticalAlignment="Top" 
+                 Height="23" Width="200" 
+                 Margin="20,128,0,0"/>
+
+        <TextBox x:Name="textBoxShortName" 
+                 Style="{StaticResource TextBox}" 
+                 Text="{Binding FullNameOrg,  UpdateSourceTrigger=PropertyChanged}" 
+                 HorizontalAlignment="Left" 
+                 VerticalAlignment="Top" 
+                 Height="23" 
+                 Width="200" 
+                 Margin="20,181,0,0"/>
+
+        <TextBox x:Name="textBoxDescriptionORG" 
+                 SpellCheck.IsEnabled="True"
+                 Style="{StaticResource TextBox}" 
+                 Text="{Binding DescriptionORG, UpdateSourceTrigger=PropertyChanged}" 
+                ToolTip="Поле может содержать информацию о цели аккредитации предприятия, предпологаемую группу товаров или услуг и иную информацию, являющуюся значимой с точки зрения проверяющего."
+                 VerticalAlignment="Top"  
+                 Width="Auto" 
+                 Height="80" 
+                 Margin="250,75,250,0"/>
+
+        <TextBox x:Name="textBoxAuditorOpinion" 
+                 SpellCheck.IsEnabled="True"
+                 Text="{Binding AuditorOpinion, UpdateSourceTrigger=PropertyChanged, Mode=OneWayToSource}" 
+                 ToolTip="В данное поле помещается вся характеризующая информация информация по мнению проверяющего"
+                 VerticalAlignment="Top"  
+                 Width="Auto" 
+                 Height="80" 
+                 Margin="250,181,250,0" />
+
+        <TextBox x:Name="textBoxSectionHeadOpinion" 
+                 Text="{Binding SectionHeadOpinion, UpdateSourceTrigger=PropertyChanged, Mode=OneWayToSource}" 
+                 SpellCheck.IsEnabled="True"
+                 ToolTip="Поле содержит мнение профильного управления выссказанного в отношении предприяти во время проверки, включая ходатайства о применения того или иного вида обеспечения."
+                 VerticalAlignment="Top"  
+                 Width="Auto" 
+                 Height="80" 
+                 Margin="250,290,250,0" />
+       
+        <TextBox x:Name="textBoxBrokerOpinion"
+                 Text="{Binding BrokerOpinion, UpdateSourceTrigger=PropertyChanged, Mode=OneWayToSource}" 
+                 SpellCheck.IsEnabled="True"
+                 IsEnabled="{Binding BrokerClient}" 
+                 ToolTip="Поле активно только для клиентов брокера" 
+                 ToolTipService.ShowOnDisabled="True"
+                 VerticalAlignment="Top"  
+                 Width="Auto" 
+                 Height="80" 
+                 Margin="250,395,250,0" 
+                 />
+
+        <ComboBox x:Name="ComboBoxCountryOrg"
+                  Text="(не выбрано)" 
+                  Style="{StaticResource ComboBox}" 
+                  ItemsSource="{Binding Countries,UpdateSourceTrigger=PropertyChanged}" 
+                  DisplayMemberPath="NameCountry"
+                  SelectedItem="{Binding SelectedCountry}"  
+                  IsReadOnly="False" 
+                  IsEditable="True" 
+                  StaysOpenOnEdit="True" 
+                  HorizontalAlignment="Left" 
+                  VerticalAlignment="Top" 
+                  Margin="20,288,0,0" 
+                  Width="200"
+        />
+
+        <ComboBox x:Name="ComboBoxSection"
+                  Text="(не выбрано)" 
+                  Style="{StaticResource ComboBox}" 
+                  ItemsSource="{Binding Section,UpdateSourceTrigger=PropertyChanged}" 
+                  DisplayMemberPath="NameSection"
+                  SelectedItem="{Binding SelectedSection}"  
+                  IsReadOnly="False" 
+                  IsEditable="True" 
+                  StaysOpenOnEdit="True" 
+                  HorizontalAlignment="Left" 
+                  VerticalAlignment="Top" 
+                  Margin="20,341,0,0" 
+                  Width="200"/>
+
+        <DatePicker HorizontalAlignment="Left" 
+                    SelectedDate="{Binding CreatedateOrg, Mode=TwoWay}"
+                    VerticalAlignment="Top" 
+                    Margin="20,234,0,0" 
+                    DisplayDateStart="1980-01-01" />
+
+        <CheckBox Content="Гос.предприятие"                  
+                  Margin="20,412,0,486"
+                  IsChecked="{Binding OwnershipOrg}"/>
+        
+        <CheckBox Content="Репутация подтвержена"            Margin="20,432,0,466" IsChecked="{Binding Reputation}"/>
+        <CheckBox Content="Производитель"                    Margin="20,452,0,446" IsChecked="{Binding Manufacturer}"/>
+        <CheckBox Content="Негати в отношении организации"   Margin="20,508,0,390" IsChecked="{Binding NegativData}"/>
+        <CheckBox Content="Задолженности по налогам"         Margin="20,528,0,370" IsChecked="{Binding TaxDebt}"/>
+        <CheckBox Content="Задолженности по исп. документам" Margin="20,548,0,350" IsChecked="{Binding DebtsEnforcementDocuments}"/>
+        <CheckBox Content="Лжепредпринимательство"           Margin="20,568,0,330" IsChecked="{Binding FalseBusiness}"/>
+        <CheckBox Content="Группа повышенного риска"         Margin="20,588,0,310" IsChecked="{Binding SpecialRisc}"/>
+        <CheckBox Content="Приказные производства"           Margin="20,608,0,290" IsChecked="{Binding ExecuteProc}"/>
+        <CheckBox Content="Банкротство"                      Margin="20,628,0,270" IsChecked="{Binding BankruptcyProc}"/>
+        <CheckBox Content="Процесс ликвидации"               Margin="20,648,0,250" IsChecked="{Binding LiquidationProc}"/>
+        <CheckBox Content="Клиент брокера"                   Margin="477,480,0,420" IsChecked="{Binding BrokerClient}"/>
+        <CheckBox Content="Ранее клиент брокера"             Margin="20,720,0,178" IsChecked="{Binding PrevBrokerClient}"/>
+        <CheckBox Content="Повторная аккредитация"           Margin="251,441,0,459" IsChecked="{Binding SecondAccred}"/>
+        <CheckBox Content="Нарушение правил торгов"          Margin="20,780,0,118" IsChecked="{Binding TradingDisorders}"/>
+        <CheckBox Content="Распоряжение"                     Margin="251,480,0,420" IsChecked="{Binding ForcedDeposite}"/>
+    </Grid>
+
+</UserControl>

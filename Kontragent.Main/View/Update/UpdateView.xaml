@@ -1,0 +1,93 @@
+﻿<UserControl x:Class="Kontragent.View.Update.UpdateView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.View.Update"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Border Grid.Row="1"
+                Grid.ColumnSpan="3"
+                Margin="0.5,0.5,0.5,0"
+                BorderThickness="2"
+                BorderBrush="LightGray" 
+        />
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <GridSplitter 
+                    Grid.Column="1" 
+                    Width="3"
+                    Margin="5,0"
+                    ResizeDirection="Columns"
+                    VerticalAlignment="Stretch"
+                    ResizeBehavior="PreviousAndNext"
+                    />
+
+            <local:OrganisationUpdateView Grid.Column="0" DataContext="{Binding Organization}"/>
+            <local:PersoneUpdateView Grid.Column="2" DataContext="{Binding Person}"/>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            
+            <Grid Grid.Column="0" >
+                <StackPanel  Orientation="Horizontal">
+                    <GroupBox Header="УНП, полное(краткое) наименование для поиска"
+                              Margin="15" 
+                              Height="100" 
+                              MinWidth="500"
+                              ToolTip="В данное поле вносится УНП или название организации для удаления. Вносим название, нажимаем кнопку (Посик организации) и после загрузки данных их можно править."
+                              >
+                        <TextBox Height="30"
+                                 TextWrapping="Wrap" 
+                                 Text="{Binding SharedVariable, UpdateSourceTrigger=PropertyChanged}"
+                        />
+                    </GroupBox>
+                    <StackPanel Orientation="Vertical" Margin="15">
+                        <Button Content="Выбрать организацию для правки" 
+                                Margin="5"
+                                Grid.Row="1"
+                                Command="{Binding SelectOrg}" 
+                        />
+                        <Button Content="ОЧИСТИТЬ"
+                                Margin="5"
+                                Command="{Binding Clean}"
+                        />
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.Column="1" >
+                <StackPanel Orientation="Vertical" Margin="15">
+                        <Button Content="ИЗМЕНИТЬ"
+                                Margin="5"
+                                Background="Orange"
+                                Command="{Binding UpdataOrg}"
+                        />
+                    <Button Content="УДАЛИТЬ"
+                            Margin="5"
+                            Background="Red"
+                            Command="{Binding DelOrg}" 
+                            ToolTip="Если УНП, полное и краткое наименование не будут принадлежать одной организации, то данные удалить не получится."
+                    />
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

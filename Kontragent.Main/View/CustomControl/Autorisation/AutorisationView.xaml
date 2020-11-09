@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="Kontragent.View.CustomControl.AutorisationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             xmlns:pass="clr-namespace:Kontragent.Helper"
+           
+             >
+    <UserControl.Background >
+        <ImageBrush ImageSource="C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Main\Resources\Autorization.jpg" 
+                  Opacity="0.2"
+                    />
+    </UserControl.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+
+            <TextBlock Grid.Row="0" Grid.Column="0"
+                       Margin="0,10,0,0"
+                       Grid.ColumnSpan="2"
+                       Text="Вход в систему КОНТРАГЕНТ"     
+                       FontSize="25" FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontStyle="Oblique"
+                       Foreground="Black"/>
+
+
+
+            <StackPanel Orientation="Vertical" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"
+                        VerticalAlignment="Center"
+                        Margin="10,0,10,0">
+                <GroupBox Header="Фамилия" FontSize="20" Opacity="1">
+                    <TextBox 
+                        Margin="20" 
+                      
+                        FontSize="20"
+                        x:Name="FirstName"  
+                        Text="{Binding LoginUser , UpdateSourceTrigger=PropertyChanged}" />
+                </GroupBox>
+                
+                <GroupBox Header="Пароль" FontSize="20">
+                    <PasswordBox 
+                        Margin="20" 
+                        Height="25" 
+                        FontSize="20"  
+                        x:Name="Passward"  
+                        PasswordChar="*"
+                        pass:PasswordBoxAssistant.BindPassword="true"  
+                        pass:PasswordBoxAssistant.BoundPassword="{Binding Path=Password, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                        />
+                </GroupBox>
+            </StackPanel>
+
+            <TextBlock Margin="30" 
+                       FontSize="15" 
+                       TextWrapping="Wrap"
+                       Grid.Column="0"
+                       Grid.Row="2" 
+                       HorizontalAlignment="Right"
+                       TextAlignment="Center">
+                <Hyperlink NavigateUri="page2.xaml" Click="Hyperlink_Click" >Зарегистрироваться в системе</Hyperlink>
+            </TextBlock>
+
+                <Button Width="150" 
+                        Height="50" 
+                        Content="Войти" 
+                        Grid.Column="1" 
+                        Grid.Row="2" 
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Bottom" 
+                        Margin="30"
+                        Command="{Binding EnterTheProgramComm}"
+                    />
+        
+        
+    </Grid>
+</UserControl>

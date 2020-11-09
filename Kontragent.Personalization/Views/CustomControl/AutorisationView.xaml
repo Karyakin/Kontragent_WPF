@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="Kontragent.Personalization.Views.CustomControl.AutorisationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.Personalization.Views.CustomControl"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Background >
+        <ImageBrush ImageSource="C:\Users\d.karyakin\Desktop\Development\Persanalization\Resourse\DSCF2809++.jpg" 
+                  Opacity="0.4"
+                    />
+    </UserControl.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel Grid.Row="0" Grid.Column="0" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="5,0,0,20" Opacity="1">
+
+            <!--<Label Content="КОНТРАГЕНТ"     FontSize="30" FontWeight="Bold" />-->
+            <Label Content="Вход в систему КОНТРАГЕНТ"     
+                   FontSize="25" FontWeight="Bold"
+                   FontStyle="Oblique"
+                   Foreground="SandyBrown"
+                   />
+        </StackPanel>
+
+
+
+        <StackPanel Orientation="Vertical" Margin="0,0,0,0" Grid.Row="1" Grid.Column="0" >
+
+            <GroupBox Header="Фамилия" Margin="10,0,0,0" FontSize="20" Opacity="1">
+                <TextBox 
+                    Margin="20" 
+                    Height="25" 
+                    FontSize="20"
+                    x:Name="FirstName"  
+                    Text="{Binding LoginUser , UpdateSourceTrigger=PropertyChanged}" 
+                    />
+            </GroupBox>
+            <GroupBox Header="Пароль" Margin="10,0,0,0" FontSize="20">
+                <TextBox 
+                    Margin="20" 
+                    Height="25" 
+                    FontSize="20"  
+                    x:Name="Passward"  
+                    Text="{Binding PasswordUser , UpdateSourceTrigger=PropertyChanged}" 
+                    />
+            </GroupBox>
+        </StackPanel>
+
+
+        <Button Grid.Column="1" 
+                Grid.Row="1" 
+                Width="200" 
+                Height="50" 
+                Content="Войти" 
+                VerticalAlignment="Bottom" Margin="0,0,0,30"
+                Command="{Binding EnterTheProgramComm}"
+                />
+
+
+
+    </Grid>
+</UserControl>

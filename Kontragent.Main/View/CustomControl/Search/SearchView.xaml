@@ -1,0 +1,183 @@
+﻿<UserControl x:Class="Kontragent.View.CustomControl.Search.SearchView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.View.CustomControl"
+             xmlns:controls="http://schemas.microsoft.com/netfx/2009/xaml/presentation"
+             xmlns:behaviors ="clr-namespace:Kontragent.Behaviors"
+             xmlns:localPersSearchView="clr-namespace:Kontragent.View.CustomControl.Search"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <Style x:Key="CheckBox" TargetType="CheckBox">
+            <Setter Property="Control.Margin" Value="10" />
+        </Style>
+        <BooleanToVisibilityConverter x:Key="booleanToVisibilityConverter"/>
+    </UserControl.Resources>
+
+    <Grid Background="WhiteSmoke">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ScrollViewer>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition ></RowDefinition>
+                </Grid.RowDefinitions>
+
+
+                <Label Grid.Row="0" Content="Сведения о предприятии" FontSize="20" />
+
+                <Grid Grid.Row="1" Margin="5"  >
+                    <!-- Параметры для поиска пердприятия-->
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="Auto" ></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <localPersSearchView:OrgSearchView DataContext="{Binding Kontragent}" Grid.Column="0" Width="Auto"/>
+
+                    <Grid Grid.Column="1" Width="Auto">
+                        <StackPanel  Width="Auto" Margin="10,0,0,0">
+                            <Button Content="Сбросить параметры поиска" 
+                                    Width="Auto" 
+                                    Margin="0,0,0,10"
+                                    Command="{Binding ClearCommand}"
+                                    />
+                            <Button Content="Очистить результат поиска" 
+                                    Width="Auto" 
+                                    Margin="0,0,0,10"
+                                    Command="{Binding DataGridClear}"
+                                    />
+                            <Button Content="Поск" 
+                                    Width="Auto" 
+                                    Margin="0,0,0,10"  
+                                    Command="{Binding SearchCommand}" />
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+
+                <Label Grid.Row="2" Content="Сведения о руководителях" FontSize="20"/>
+
+                <Grid Grid.Row="3" >
+                    <localPersSearchView:PersSearchView DataContext="{Binding Kontragent}"/>
+                </Grid>
+            </Grid>
+        </ScrollViewer>
+
+        <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch" VerticalAlignment="Center" />
+
+        <Grid Grid.Row="6" >
+            <!--Style="{DynamicResource ListViewBoxStyle}"-->
+            <Grid.Resources>
+                <FrameworkElement x:Key="ProxyElement"
+                                  DataContext="{Binding Kontragent}"/>
+            </Grid.Resources>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+
+            <ContentControl Grid.Row="1" 
+                            Visibility="Collapsed"
+                            Content="{StaticResource ProxyElement}"/>
+
+
+            <DataGrid Grid.Row="1" Margin="2" 
+                      ItemsSource="{Binding Items, Mode=TwoWay}" 
+                      AutoGenerateColumns="False"
+               behaviors:DataGridBehavior.DisplayRowNumber="True"
+                      CanUserAddRows="false"
+                      IsReadOnly="True"
+                      x:Name="DataGrid123" 
+                      Background="Transparent"
+                       GridLinesVisibility="All"
+                      Style="{x:Null}"
+                      SelectionMode="Extended"
+                      SelectionUnit="Cell"
+                      >      
+                
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="УНП" Binding="{Binding UNPOrg}" Width="100"/>
+                    <DataGridTextColumn Header="Краткое наименование" Binding="{Binding ShortNameOrg}" Width="150" />
+                    <DataGridTextColumn Header="Полное наименованеи" Binding="{Binding FullNameOrg}" Width="150"/>
+                    <DataGridTextColumn Header="Страна" Binding="{Binding CountyrOrg}" Width="100" />
+                    <DataGridTextColumn Header="Секция" Binding="{Binding NameSection}" Width="100" />
+                    <DataGridTextColumn Header="Дата создания" Binding="{Binding CreatedateOrgShort}" Width="100"/>
+
+                    <DataGridTextColumn Header="Описание пердприятия" 
+                                        Visibility="{Binding DataContext.PersonSearc.DescriptionOrgBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        Binding="{Binding DescriptionOrg}" Width="150" 
+                                        />
+                    <DataGridTextColumn Header="Мнение проверяющего"
+                                        Visibility="{Binding DataContext.PersonSearc.AuditorOpinion, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        Binding="{Binding AuditorOpinion}" Width="150" 
+                                        />
+                    <DataGridTextColumn Header="Мнение брокера" 
+                                        Visibility="{Binding DataContext.PersonSearc.BrokerOpinion, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        Binding="{Binding BrokerOpinion}" Width="110" 
+                                        />
+                    <DataGridTextColumn Header="Мнение торг.секции" 
+                                        Visibility="{Binding DataContext.PersonSearc.SectionHeadOpinion, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        Binding="{Binding SectionHeadOpinion}" Width="130" 
+                                        />
+                    <DataGridTextColumn Header="Учредители" 
+                                        Binding="{Binding OwnerName}" Width="100" 
+                                        Visibility="{Binding DataContext.PersonSearc.OwnerNameBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        />
+                    <DataGridTextColumn Header="Руководители" 
+                                        Binding="{Binding HeadName}" Width="100"
+                                        Visibility="{Binding DataContext.PersonSearc.HeadNameBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        />
+                    <DataGridTextColumn Header="Описание руководителей" Width="100"
+                                        Visibility="{Binding DataContext.PersonSearc.DescriptionPersBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        Binding="{Binding DescriptionPers}"
+                                        />
+                    <DataGridTextColumn Header="Гражданство(подданство) учредителей" 
+                                        Binding="{Binding CountyrPers}" Width="230" 
+                                        Visibility="{Binding DataContext.PersonSearc.СountryPersBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        />
+                    <DataGridTextColumn Header="Дата и время проверки" 
+                                        Binding="{Binding CheckDateOrg}" Width="150" 
+                                        Visibility="{Binding DataContext.PersonSearc.CheckDateOrgBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"                                        
+                                        />
+
+                    <DataGridTextColumn Header="Проверяющий" 
+                                        Binding="{Binding Auditor}" Width="100" 
+                                        Visibility="{Binding DataContext.PersonSearc.AuditorBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        />
+
+                    <DataGridTextColumn Header="Автор изменений" 
+                                        Binding="{Binding UpdateAuditor}" Width="100" 
+                                        Visibility="{Binding DataContext.PersonSearc.UpdateAuditorBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        />
+                    <DataGridTextColumn Header="Степень риска" 
+                                        Binding="{Binding RiscLevel}" Width="100"
+                                        Visibility="{Binding DataContext.PersonSearc.RiscLevelBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"
+                                        />
+                    <DataGridTextColumn Header="Текущий задаток" 
+                                        Binding="{Binding Deposit}" Width="110" 
+                                        Visibility="{Binding DataContext.PersonSearc.DepositBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"                    
+                                        />
+                    <DataGridTextColumn Header="Рукомендуемый задаток" 
+                                        Binding="{Binding RecomendDeposit}" Width="150" 
+                                        Visibility="{Binding DataContext.PersonSearc.RecomendDepositBool, Source={StaticResource ProxyElement}, Converter={StaticResource booleanToVisibilityConverter}}"                    
+                                        />
+
+                    <!--Visibility="{Binding Source={x:Reference DataGrid123}, 
+                        Converter={StaticResource booleanToVisibilityConverter}, Path=DataContext.ForcedDeposite}"-->
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</UserControl>
+

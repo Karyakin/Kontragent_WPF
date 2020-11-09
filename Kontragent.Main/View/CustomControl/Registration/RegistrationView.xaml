@@ -1,0 +1,107 @@
+﻿<UserControl x:Class="Kontragent.View.Registration.RegistrationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.View.Registration"
+             xmlns:converter="clr-namespace:Kontragent.Converters"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Background >
+        <ImageBrush ImageSource="C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Main\Resources\Registration.JPG" 
+                  Opacity="0.3"
+                    />
+    </UserControl.Background>
+    <UserControl.Resources>
+        <converter:BoolToStringErrorConverter x:Key="BoolToStringErrorConverter"/>
+
+    </UserControl.Resources>
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Label Content="Регистрация пользователя" 
+               HorizontalContentAlignment="Center"
+               Grid.Row="0" 
+               HorizontalAlignment="Center"
+               VerticalAlignment="Bottom"
+               FontSize="25" FontWeight="Bold"
+               FontStyle="Oblique"
+               Foreground="SandyBrown"/>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" Margin="10,0,10,0" Grid.Row="1">
+            <GroupBox Header="Фамилия">
+                <TextBox 
+                    Margin="10,5,0,5" 
+                    FontSize="20"
+                    Text="{Binding LoginUser , UpdateSourceTrigger=PropertyChanged}"
+                    Style="{StaticResource TextBox}" 
+                    />
+            </GroupBox>
+            <GroupBox Header="Подразделение" >
+                <TextBox 
+                    Margin="10,5,0,5" 
+                    FontSize="20"
+                    Text="{Binding Department , UpdateSourceTrigger=PropertyChanged}"
+                    Style="{StaticResource TextBox}" 
+                    />
+            </GroupBox>
+            <GroupBox Header="Пароль">
+                <TextBox 
+                    Margin="10,5,0,5" 
+                    FontSize="20"
+                    Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}"
+                    Style="{StaticResource TextBox}" 
+                    x:Name="textBoxPass"  
+                       
+                      
+                    
+                    />
+            </GroupBox>
+            <GroupBox Header="Подтверждение пароля">
+                <TextBox 
+                    Margin="10,5,0,5" 
+                    FontSize="20"
+                    Text="{Binding RepeatedPassword , UpdateSourceTrigger=PropertyChanged}"
+                    Style="{StaticResource TextBox}" 
+                    
+                    />
+            </GroupBox>
+            <GroupBox Header="Подсказка пароля">
+                <TextBox 
+                    Margin="10,0,0,0" 
+                    FontSize="20"
+                    Text="{Binding Hint, UpdateSourceTrigger=PropertyChanged}"
+                    
+                    />
+            </GroupBox>
+        </StackPanel>
+
+   
+
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="2"
+                    HorizontalAlignment="Center">
+            <Button Content="Назад" 
+                    Height="50" 
+                    MinWidth="100"
+                    Margin="10,10,17,5"
+                    Background="Green"
+                    FontSize="20"
+                    VerticalAlignment="Bottom"
+                    Click="Back_OnClick"/>
+
+            <Button Content="Зарегистрироваться" 
+                    Height="50" 
+                    Margin="10,10,17,5"
+                    Background="Green"
+                    FontSize="20"
+                    VerticalAlignment="Bottom"
+                    Command="{Binding AddNewUser}"
+                    ToolTipService.ShowOnDisabled="True"    
+                    ToolTip="{Binding Person1.Validator.IsValid, Converter={StaticResource BoolToStringErrorConverter}}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

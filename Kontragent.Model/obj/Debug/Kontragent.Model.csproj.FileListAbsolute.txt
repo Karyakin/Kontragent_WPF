@@ -1,0 +1,209 @@
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe.config
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\bin\Debug\Kontragent.Model.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\App.g.cs
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model_MarkupCompile.lref
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\MainWindow.baml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.g.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.Properties.Resources.resources
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.csproj.GenerateResource.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.exe
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Model\obj\Debug\Kontragent.Model.pdb

@@ -1,0 +1,83 @@
+﻿<UserControl x:Class="Kontragent.View.Update.PersoneUpdateView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kontragent.View.Update"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <GroupBox Header="Гражданство учредителя">
+                <ComboBox x:Name="comboBoxCountyrPers" 
+                  Style="{StaticResource ComboBox}"
+                  Text="(не выбрано)" 
+                  ItemsSource="{Binding Countries,UpdateSourceTrigger=PropertyChanged}" 
+                  DisplayMemberPath="NameCountry"
+                  SelectedItem="{Binding SelectedCountry}"  
+                  IsReadOnly="False" 
+                  IsEditable="True" 
+                  StaysOpenOnEdit="True" 
+                  HorizontalAlignment="Stretch" 
+                  Width="Auto"
+                />
+            </GroupBox>
+
+            <GroupBox Header="ФИО учредителей" Grid.Row="1">
+                <TextBox x:Name="text_box_Owner_Name" 
+                 Style="{StaticResource TextBox}"
+                 Text="{Binding OwnerName, UpdateSourceTrigger=PropertyChanged}"  
+                 HorizontalAlignment="Stretch" 
+                 VerticalAlignment="Top" 
+                 Height="25" 
+                 Width="Auto"
+                 VerticalContentAlignment="Center"
+                />
+
+            </GroupBox>
+
+            <GroupBox  Header="ФИО руководителей" Grid.Row="2">
+                <TextBox x:Name="textBox_Head_Name"  
+                 Style="{StaticResource TextBox}"
+                 Text="{Binding HeadName, UpdateSourceTrigger=PropertyChanged}" 
+                 HorizontalAlignment="Stretch" 
+                 MinHeight="25"
+                 VerticalContentAlignment="Center"
+                />
+            </GroupBox>
+
+            <GroupBox Header="Заметки по руководству организации" Grid.Row="3">
+                <TextBox x:Name="textBox_lable_Description_Pers" 
+                 Text="{Binding Path=DescriptionPers}" 
+                 ToolTip="Поле может содержать любую информацию о руководстве предприятия, являющуюся значимой для аккредитации с точки зрения проверяющего."
+                 HorizontalAlignment="Stretch"
+                 Height="120" 
+               
+                 AcceptsReturn="True"
+                 TextWrapping="Wrap"
+                         />
+            </GroupBox>
+        </Grid>
+
+        <StackPanel Grid.Column="0" Grid.Row="1"
+                    Margin="0,20,0,0">
+            <CheckBox Content="Ликвидированные предприятия" Margin="0,5,0,0"        IsChecked="{Binding PrevLiquidated}"/>
+            <CheckBox Content="Обанкротившиеся предпрития"  Margin="0,5,0,0" IsChecked="{Binding PrevBankruptcy}"/>
+            <CheckBox Content="Приказные производства"      Margin="0,5,0,0"     IsChecked="{Binding PrevExecuteProc}"/>
+            <CheckBox Content="Задолженности по исп. документам" Margin="0,5,0,0"  IsChecked="{Binding PrevStateDebt}"/>
+            <CheckBox Content="Задолженности по налогам"        Margin="0,5,0,0"  IsChecked="{Binding PrevTaxDebt}"/>
+            <CheckBox Content="Негатив в отношении руководства" Margin="0,5,0,0"  IsChecked="{Binding NegativDataPers}"/>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

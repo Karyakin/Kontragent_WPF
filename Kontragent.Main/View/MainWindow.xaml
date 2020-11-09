@@ -1,0 +1,92 @@
+﻿<Window x:Class="Kontragent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kontragent"
+        xmlns:uc="clr-namespace:Kontragent.View.CustomControl.Search"
+        xmlns:viewModel ="clr-namespace:Kontragent.ViewModel"
+        xmlns:converter ="clr-namespace:Kontragent.Converters"
+        xmlns:ucNewOrg="clr-namespace:Kontragent.View.CustomControl"
+        xmlns:update="clr-namespace:Kontragent.View.Update"
+        mc:Ignorable="d"
+        Height="950" Width="1300"
+        Title="Контрагент" WindowStartupLocation="CenterScreen" 
+        d:DataContext="{d:DesignInstance viewModel:MainWindowViewModel}" 
+        Closed="Window_Closed"
+        >
+    <Window.Resources>
+        <converter:BoolToStringErrorConverter x:Key="BoolToStringErrorConverter"/>
+        <Style x:Key="CenterTop">
+            <Setter Property="Label.HorizontalAlignment" Value="Center"/>
+            <Setter Property="Label.VerticalAlignment" Value="Top"/>
+            <Setter Property="Label.Height" Value="25"/>
+            <Setter Property="Label.Width" Value="150"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="WhiteSmoke">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+       <!-- <Menu Style="{DynamicResource MenuStyle}" Height="25" VerticalAlignment="Top"
+              Grid.Row="0">
+            <MenuItem Header="Тема">
+                <MenuItem Style="{DynamicResource MenuItemStyle}" Header="Темная"/>
+                <MenuItem Style="{DynamicResource MenuItemStyle}" Header="Светлая"/>
+            </MenuItem>
+        </Menu>-->
+
+        <!--<ComboBox x:Name="styleBox" Style="{DynamicResource ComboBoxStyle}" HorizontalAlignment="Right" Width="100" 
+                  Grid.Row="1">
+            <ComboBox.ItemContainerStyle>
+                <Style TargetType="ComboBoxItem">
+                    <Setter Property="Background" Value="Gray"/>
+                    --><!--Не могу сменить цвет фона! Всегда белый--><!--
+                    <Setter Property="BorderBrush" Value="Gray"/>
+                </Style>
+            </ComboBox.ItemContainerStyle>
+        </ComboBox>-->
+
+        <TabControl Style="{DynamicResource TabControlStyle}" 
+                    Grid.Row="2">
+            <TabItem Header="Новая организация" >
+                <ucNewOrg:NewOrganizationView x:Name="org" DataContext="{Binding NewOrganization}"/>
+            </TabItem>
+            
+            <TabItem  Style="{DynamicResource TabItemStyle}" Header="Анализ">
+                <Grid>
+                    <uc:SearchView DataContext="{Binding Search}"/>
+                </Grid>
+
+            </TabItem>
+            <!--<TabItem Style="{DynamicResource TabItemStyle}" Header="Редактирование"/>
+            <TabItem Style="{DynamicResource TabItemStyle}" Header="Изменить параметры оценки"/>-->
+            <TabItem  Style="{DynamicResource TabItemStyle}" Header="Редактирование">
+                <Grid>
+                    <update:UpdateView DataContext="{Binding Update}"/>
+                </Grid>
+
+            </TabItem>
+        </TabControl>
+        <StatusBar Grid.Row="3">
+           <StatusBarItem DockPanel.Dock="Left">
+               <StackPanel Orientation="Horizontal">
+                   <TextBlock Text="Фамилия: " FontSize="14"/>
+                    <TextBlock Text="{Binding WorkUser.LoginUser, Mode=OneWay}" FontSize="14"/>
+               </StackPanel>
+           </StatusBarItem>
+            <StatusBarItem DockPanel.Dock="Left">
+                <TextBlock FontSize="14">|</TextBlock>
+            </StatusBarItem>
+            <StatusBarItem DockPanel.Dock="Left">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Подразделение: " FontSize="14"/>
+                    <TextBlock Text="{Binding WorkUser.Department, Mode=OneWay}"  FontSize="14"/>
+                </StackPanel>
+           </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

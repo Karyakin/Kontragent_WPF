@@ -1,0 +1,317 @@
+C:\Users\dmitrijkarakin\Desktop\Kontragent 04.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\dmitrijkarakin\Desktop\Kontragent 04.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\dmitrijkarakin\Desktop\Kontragent 04.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\Kontragent 04.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\Kontragent 04.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\dmitrijkarakin\Desktop\Kontragent 04.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\dmitrijkarakin\Desktop\Kontragent 07.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\dmitrijkarakin\Desktop\Kontragent 07.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\dmitrijkarakin\Desktop\Kontragent 07.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\dmitrijkarakin\Desktop\Kontragent 07.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dmitrijkarakin\Desktop\Kontragent 07.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\dmitrijkarakin\Desktop\Kontragent 07.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 10.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 10.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 10.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 10.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 10.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Kontragent 11.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 11.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 11.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 11.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 11.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\bin\Debug\System.Security.AccessControl.dll
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\peskov\Desktop\Kontragent 18.08.2020\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 18.08.2020 vlad\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 18.08.2020 vlad\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020У\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.08.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.08.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.08.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 02.09.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 03.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 09.09.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 11.09.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 17.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 23.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 24.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 25.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 28.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 29.09.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\bin\Debug\System.Security.AccessControl.dll
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\peskov\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 30.09.2020_УТРО — копия — копия\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 01.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 01.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 01.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Kontragent 01.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Kontragent 01.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Kontragent 01.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Kontragent 01.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 08.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 08.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 08.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 08.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 08.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 08.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 12.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 12.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 12.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 12.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 12.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 12.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 13.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 13.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 13.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 13.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 13.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 13.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ВЕЧЕР\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ВЕЧЕР\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 15.10.2020_ВЕЧЕР\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignColors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignColors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\ControlzEx.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\MahApps.Metro.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\MaterialDesignColors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\ControlzEx.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\ControlzEx.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\MahApps.Metro.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\MahApps.Metro.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\MaterialDesignColors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 19.10.2020_ОБЕД\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignColors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignColors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 20.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignColors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignColors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 22.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\Kontragent.Domain.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignColors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\ControlzEx.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\MahApps.Metro.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignColors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csprojAssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.dll
+C:\Users\d.karyakin\Desktop\Development\Kontragent 26.10.2020_УТРО\Kontragent.Domain\obj\Debug\Kontragent.Domain.pdb
